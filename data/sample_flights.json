@@ -1,0 +1,42 @@
+[
+  {
+    "ACID": "ACA101",
+    "Plane type": "jet",
+    "route": "49.97N/110.935W 49.64N/92.114W 45.42N/75.69W",
+    "altitude": 34000,
+    "departure time": 1705400000,
+    "aircraft speed": 450,
+    "passengers": 160,
+    "is_cargo": false
+  },
+  {
+    "ACID": "WJA204",
+    "Plane type": "jet",
+    "route": "50.0N/111.0W 49.7N/92.2W 45.5N/75.8W",
+    "altitude": 34000,
+    "departure time": 1705400300,
+    "aircraft speed": 440,
+    "passengers": 140,
+    "is_cargo": false
+  },
+  {
+    "ACID": "PCG330",
+    "Plane type": "turboprop",
+    "route": "47.45N/122.3W 46.2N/119.0W 45.3N/113.9W",
+    "altitude": 18000,
+    "departure time": 1705400600,
+    "aircraft speed": 280,
+    "passengers": 52,
+    "is_cargo": false
+  },
+  {
+    "ACID": "CARG900",
+    "Plane type": "jet",
+    "route": "49.9N/111.1W 49.65N/92.05W 45.45N/75.72W",
+    "altitude": 36000,
+    "departure time": 1705400150,
+    "aircraft speed": 470,
+    "passengers": 2,
+    "is_cargo": true
+  }
+]
