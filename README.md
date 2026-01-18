@@ -41,8 +41,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd NAV
+git clone https://github.com/Vrishab20/UottawaHack-8-AeroIntel.git
+cd UottawaHack-8-AeroIntel
 ```
 
 ### 2. Backend Setup
