@@ -3,7 +3,7 @@
 **Aviation Intelligence Platform** - Real-time flight conflict detection, hotspot analysis, and cost-optimized resolution proposals.
 
 <p align="center">
-  <img src="frontend/public/favicon.svg" alt="AeroIntel Logo" width="80" />
+  <img src="frontend/public/favicon.svg" alt="AeroIntel Logo" width="180" />
 </p>
 
 ## 🚀 Features
