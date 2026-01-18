@@ -149,13 +149,23 @@ Edit `backend/app/conflicts.py` to adjust thresholds.
 
 ## 📝 License
 
-[Add your license here]
+This project is released under the **MIT License**.
+
+You are free to use, modify, and distribute this software for personal, academic, or commercial purposes, provided that the original copyright and license notice are included.
+
+This project was developed as part of a hackathon and is intended for research, learning, and demonstration purposes.
+
+---
 
 ## 👥 Contributors
 
-[Add contributors here]
+- **Vrishab Prasanth Davey** — *Sole creator and developer*
+
+This project was designed, implemented, and refined entirely as a solo effort, including system design, analysis logic, visualization, and user experience.
+
 
 ## 🙏 Acknowledgments
 
 - Mapbox for globe visualization
 - NAV Canada for aviation domain inspiration
+- FlightRadar 24 for UI Inspiration
